@@ -1,6 +1,8 @@
 # Deep-Learning
 
-In this early morning of Super Bowl Day, I finally finished Deep Learning Specialization taught by Andrew Ng.
+After a long marathon, I finally finished Deep Learning Specialization taught by Andrew Ng.
+
+I am proud to present my certificate.! 
 
 This specialization includes 5 modules:
 
