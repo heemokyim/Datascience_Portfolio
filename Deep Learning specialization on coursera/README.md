@@ -4,6 +4,10 @@ After a long marathon, I finally finished Deep Learning Specialization taught by
 
 I am proud to present my certificate.! 
 
+![certificate](https://user-images.githubusercontent.com/36667934/45817611-9d71a600-bcdf-11e8-91bb-b6574267be34.png)
+
+
+
 This specialization includes 5 modules:
 
 ## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
@@ -98,17 +102,12 @@ This specialization includes 5 modules:
         * [Neural Machine Translation with Attention](https://github.com/wangruinju/Deep-Learning/blob/master/course5_sequential_models/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv1.ipynb)
         * [Trigger word detection](https://github.com/wangruinju/Deep-Learning/blob/master/course5_sequential_models/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
 
-Please see my [GitHub](https://github.com/wangruinju/Deep-Learning) for details.
-
-I have also reviewed two amazing courses offered by Stanford University, which are 
-
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
-
-* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-
-For the basic of machine learning, please refer to Andrew's [Maching Learning on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome) and [CS229: Maching Learning](http://cs229.stanford.edu/). Here is [my GitHub repo](https://github.com/wangruinju/Machine-Learning-Coursera) for Andrew's Machine Learning course as guidance if needed.
-
 # Other Resources
+
+
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html)
+
+[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 [Deep Learning textbook: Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
@@ -129,8 +128,6 @@ For the basic of machine learning, please refer to Andrew's [Maching Learning on
 [Machine Learning and Data Mining](https://www.cs.ubc.ca/~schmidtm/Courses/340-F17/)
 
 [Machine Learning](https://www.cs.ubc.ca/~schmidtm/Courses/540-W17/)
-
-* Hunag-yi Lee videos
 
 [Maching Learning and Deep Learning resources](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
 
